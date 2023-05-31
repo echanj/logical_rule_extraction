@@ -1,0 +1,4 @@
+notes_*
+*.swp
+.ipynb_checkpoints
+commit_to_git.sh
